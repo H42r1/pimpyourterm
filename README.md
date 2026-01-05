@@ -25,8 +25,8 @@ ZSH_THEME="af-magic"
 
 `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting`
 
-edit .zshrc to include plugins
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting command-not-found)
+edit `.zshrc` to include plugins
+`plugins=(git zsh-autosuggestions zsh-syntax-highlighting command-not-found)`
 
 ##### plugins include with ohmyzsh
 https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
@@ -34,7 +34,3 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 ##### Root config
 
 copy `.zshrc` and `.oh-my-zsh` in `/root`
-
-
-RIP Don.
-Thanks for everything.
