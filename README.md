@@ -34,3 +34,9 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 ##### Root config
 
 copy `.zshrc` and `.oh-my-zsh` in `/root`
+
+##### Font
+
+https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FiraMono/Regular/FiraMonoNerdFont-Regular.otf
+
+Ajust the font in gnome terminal
